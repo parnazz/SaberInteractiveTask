@@ -1,0 +1,14 @@
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\bin\Debug\netcoreapp3.1\LinkedListSerialization.exe
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\bin\Debug\netcoreapp3.1\LinkedListSerialization.deps.json
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\bin\Debug\netcoreapp3.1\LinkedListSerialization.runtimeconfig.json
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\bin\Debug\netcoreapp3.1\LinkedListSerialization.runtimeconfig.dev.json
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\bin\Debug\netcoreapp3.1\LinkedListSerialization.dll
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\bin\Debug\netcoreapp3.1\LinkedListSerialization.pdb
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.csproj.AssemblyReference.cache
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.AssemblyInfoInputs.cache
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.AssemblyInfo.cs
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.csproj.CoreCompileInputs.cache
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.dll
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.pdb
+C:\Users\parna\Desktop\Резюме\Тестовые задания\LinkedListSerialization\LinkedListSerialization\obj\Debug\netcoreapp3.1\LinkedListSerialization.genruntimeconfig.cache

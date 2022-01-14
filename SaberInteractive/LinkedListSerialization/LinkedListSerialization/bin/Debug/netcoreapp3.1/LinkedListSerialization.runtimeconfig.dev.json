@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\parna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\parna\\.nuget\\packages"
+    ]
+  }
+}
